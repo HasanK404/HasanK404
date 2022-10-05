@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # All_Projects
 Here are all my project I have done in my entire life 
 # 💫 About Me:
