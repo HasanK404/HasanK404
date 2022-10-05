@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-# All_Projects
-Here are all my project I have done in my entire life 
 # 💫 About Me:
 Passionate software developer and dynamic student working toward a B.Eng. in Software Engineering<br>at the Ontario Tech University. Aim to use my knowledge of programming and furthermore learning the ability<br>to build interactive and user-centered program and website designs to scale with some practical Real world experience.<br><br>🙂Looking forward to collaborate on bigger project
 
