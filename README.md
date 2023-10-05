@@ -6,7 +6,7 @@ Passionate software developer and dynamic student working toward a B.Eng. in Sof
 ## 🌐 Socials:
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="hasan-khan-63618a244" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/hasan-khan-63618a244?trk=profile-badge">My LinkedIn</a></div>
 
-<a class="badge-base__link LI-simple-link" href="https://github.com/HasanK404/Resume/blob/main/Hasan%20Resume%203.0.pdf?trk=profile-badge">My Resume</a></div>
+<a class="badge-base__link LI-simple-link" href="https://github.com/HasanK404/Resume/blob/main/Hasan.V2.pdf">My Resume</a></div>
               
 
 # 💻 Tech Stack:
